@@ -147,7 +147,6 @@
     <Compile Include="Models\Siniflar\Iletişim.cs" />
     <Compile Include="Models\Siniflar\Yorumlar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Test\asd.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
@@ -273,7 +272,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="testttttt\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
