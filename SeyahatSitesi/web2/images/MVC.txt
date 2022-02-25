@@ -1,0 +1,6 @@
+MVC
+Model: Veritabanı sınıflar ilişkiler 
+View: Fronted tasarım
+Controller: backend
+
+Layout sabit kalan kısım
